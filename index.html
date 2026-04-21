@@ -62,7 +62,7 @@
 
     <h2>7. Contato</h2>
     <p>Em caso de dúvidas, entre em contato pelo e-mail:</p>
-    <p><strong>seuemail@email.com</strong></p>
+    <p><strong>canalamigosclash@gmail.com.com</strong></p>
 
     <div class="footer">
       <p>Última atualização: 2026</p>
